@@ -1,8 +1,8 @@
 #include <iostream>
-#include <list>
 #include <vector>
 
 #include <unrolled_list.h>
+
 struct smth {
     int data = 5;
 };
