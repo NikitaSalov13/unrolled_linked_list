@@ -4,7 +4,7 @@ A lightweight C++20 container that implements the [Unrolled Linked List](https:/
 
 ---
 
-## ✨ Features
+##  Features
 
 - **STL‑compatible API** – the class meets the named requirements for:
   - `Container`, `SequenceContainer` (except `emplace*`, `assign_range`, `prepend_range`, `operator[]`)
@@ -24,7 +24,7 @@ A lightweight C++20 container that implements the [Unrolled Linked List](https:/
 
 ---
 
-## ⚙️ Complexity & Guarantees
+##  Complexity & Guarantees
 
 | Operation    | Complexity (single / N elements) | Exception guarantee |
 | ------------ | -------------------------------- | ------------------- |
@@ -39,7 +39,7 @@ A lightweight C++20 container that implements the [Unrolled Linked List](https:/
 ---
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```cpp
 #include "unrolled_list.h"
@@ -64,7 +64,7 @@ std::reverse(list.begin(), list.end());  // works with std algorithms
 ---
 
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests and issues are welcome! 
 ---
