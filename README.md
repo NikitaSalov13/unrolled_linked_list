@@ -64,8 +64,6 @@ std::reverse(list.begin(), list.end());  // works with std algorithms
 ---
 
 
-##  Contributing
-
 Pull requests and issues are welcome! 
 ---
 
